@@ -1,0 +1,13 @@
+{
+    "dockerComposeFile": "docker-compose.yml",
+    "workspaceFolder": "/src",
+    "service": "app",
+    "extensions": [
+        "Ionide.Ionide-fsharp"
+    ],
+    "settings": {
+        "[fsharp]": {
+            "editor.defaultFormatter": "Ionide.Ionide-fsharp"
+        }
+    }
+}
